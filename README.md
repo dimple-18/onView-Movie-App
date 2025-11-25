@@ -1,12 +1,45 @@
-# React + Vite
+# 🎬 onView — Movie Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**onView** is a simple and clean movie search application built using **React**.  
+It fetches movie data from a public movie API and displays details in a modern UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Search movies by title  
+- Fetches real-time movie data from an external API  
+- Displays:
+  - Movie poster  
+  - Title  
+  - Release year  
+  - Ratings
+  - Additional details 
+- Clean and minimal UI  
+- Error handling for invalid or no results  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React (JavaScript)  
+- **Styling:** CSS  
+- **API:** OMDB / TMDB 
+
+---
+
+
+## 🎯 Purpose
+
+I built this project to:
+
+- Practise working with external APIs  
+- Learn how to handle async fetch requests  
+- Display dynamic data in React  
+- Improve my UI design sense  
+
+---
+
+## 👩‍💻 Developer
+
+Built with 🍿 by **Dimple (dimple-18)**  
